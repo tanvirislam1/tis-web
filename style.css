@@ -1,0 +1,129 @@
+body{
+    display: block;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.con1{
+    height: 500px;
+    padding-top: 50px;
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+.con2{
+    height: 700px;
+    padding-top: 100px;
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.pos{
+    padding-top: 100px;
+}
+.first-haf{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h3{
+    font-size: 30px;
+    line-height: 110%;
+    font-weight: 700;
+    margin: 0%;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 110%;
+    margin: 0;
+    color: #ff3b34;
+
+}
+
+.pera{
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 30px 0px 50px 0px;
+}
+
+.button{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    text-decoration: none;
+    padding: 10px 32px;
+    color: white;
+    background-color: #ff3b34;
+    
+}
+
+.first-haf .banner-img{
+    width: 80%;
+}
+
+.con3{
+    height: 500px;
+    padding-top: 100px;
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+    right: 0%;
+    text-align: center;
+}
+
+h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #131212;
+}
+.Pfrjects .letest-img{
+    width: 30%;
+    float: left;
+    padding: 15px;
+
+}
+.con4{
+    height: 600px;
+    padding-top: 100px;
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.p2{
+    text-align: center;
+    font-size: 40px;
+}
+.Bruce{
+    text-align: center;
+
+}
+.p4 {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(124, 128, 128);
+}
+.paper{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+    font-size: 20px;
+}
+.p5{
+    text-align: center;
+    font-size: 15px ;
+}
+.p6{
+    text-align: center;
+    font-size: 30px;
+}
+.di{
+    background-image: linear-gradient(45deg,rgb(245, 146, 220),rgb(226, 19, 199));
+    padding: 10px 20px ;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+
+}
