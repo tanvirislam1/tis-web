@@ -67,7 +67,7 @@ h1{
 .con3{
     height: 500px;
     padding-top: 100px;
-    background-image: url(personal-website/latest-work-bg.png);
+    background-image: url(image/latest-work-bg.png);
     background-repeat: no-repeat;
     right: 0%;
     text-align: center;
@@ -87,7 +87,7 @@ h2{
 .con4{
     height: 600px;
     padding-top: 100px;
-    background-image: url(personal-website/footer-bg.png);
+    background-image: url(image/footer-bg.png);
     background-repeat: no-repeat;
 }
 .p2{
